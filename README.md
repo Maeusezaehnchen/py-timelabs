@@ -21,4 +21,12 @@ PyQt5, Python bindings for the Qt cross platform UI and application toolkit. (ht
 ```
 pip3 install PyQt5
 ```
+## Author
 
+Maeusezaehnchen
+
+## License
+
+This project is licensed under the MIT-License.
+
+to be continued...
